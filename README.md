@@ -24,7 +24,7 @@
 ```typescript
 const narsingNarvate = {
   title: "B.E. Information Science Student",
-  stack: ["Python", "C"],
+  stack: ["Python", "C", "Java"],
   currentlyLearning: ["Data Structures", "Programming Fundamentals"],
   launchedProjects: [], // building & publishing soon 🚧
   certifications: [],
@@ -39,7 +39,7 @@ const narsingNarvate = {
 
 **Languages**
 
-![Skills](https://skillicons.dev/icons?i=python,c&theme=dark)
+![Skills](https://skillicons.dev/icons?i=python,c,java&theme=dark)
 
 <br/>
 
