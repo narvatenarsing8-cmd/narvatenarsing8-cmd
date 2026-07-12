@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.com/api?type=waving&color=0:0891b2,100:7dd3fc&height=200&section=header&text=Narsing%20Narvate&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Bachelor%20of%20Engineering%20in%20Information%20Science&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:7dd3fc&height=200&section=header&text=Narsing%20Narvate&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Bachelor%20of%20Engineering%20in%20Information%20Science&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=B.E.+Information+Science+Student;Python+Learner;AI+%26+Data+Structures+Enthusiast;Aspiring+Software+Developer" alt="Typing SVG" />
@@ -77,4 +77,4 @@ const narsingNarvate = {
 
 <br/>
 
-<img src="https://capsule-render.com/api?type=waving&color=0:7dd3fc,100:0891b2&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0891b2&height=120&section=footer" width="100%"/>
